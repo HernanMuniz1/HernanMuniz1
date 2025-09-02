@@ -1,3 +1,6 @@
+<!--Banner-->
+![HernanMuniz1 Banner Image](https://github.com/HernanMuniz1/hernanmuniz1/blob/main/banner.png)
+
 ## Hi there 👋
 
 <!--
