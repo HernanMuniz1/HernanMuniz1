@@ -1,5 +1,5 @@
 <!--Banner-->
-![HernanMuniz1 Banner Image](https://github.com/HernanMuniz1/HernanMuniz1/blob/main/banner.png)
+![HernanMuniz1 Banner Image](https://github.com/HernanMuniz1/blob/main/banner.png)
 
 ## Hi there 👋
 
