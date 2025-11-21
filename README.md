@@ -6,6 +6,6 @@
 *Systems Engineering Student*
 <br /> 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django and Fast API. </p>
+<p align="left"></p>
 
 <!--End Intro-->
