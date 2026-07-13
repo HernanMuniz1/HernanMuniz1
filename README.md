@@ -8,8 +8,9 @@
 <p>Full stack developer focused mainly on the backend, building web and mobile applications end to end.<br>
 Backend with Node.js and Express designing REST APIs, and frontend with React and React Native, which I've done across several projects.<br>
 Data persistence in both relational (SQL, SQL Server) and non-relational (MongoDB) databases.<br><br>
-I also worked with low-level and systems programming in C and C++ (compression and encryption software)<br>
-and application development in Java. Comfortable working in teams using Git Flow and using generative AI to speed up development.
+I also worked with low-level and systems programming in C and C++ and application development in Java.
+  <br> Comfortable working in teams using Git Flow, and using generative AI to speed up development. <br> <br>
+  Passionate about AI and cibersecurity.
 </p>
 <br /> 
 <!--Start Intro-->               
