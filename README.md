@@ -8,7 +8,7 @@
 <p>Full stack developer focused mainly on the backend, building web and mobile applications.<br><br>
 Backend with Node.js and Express designing REST APIs, applying good practices like SOLID principles and design patterns for clean, maintainable code.<br>
 Frontend with React and React Native, which I've done across several projects.<br>
-Data persistence in both relational (SQL, SQL Server) and non-relational (MongoDB) databases.<br><br>
+Data persistence in both relational (SQL Server, PostgresSQL) and non-relational (MongoDB) databases.<br><br>
 I also work with low-level and systems programming in C and C++, and application development in Java.
   <br> Comfortable working in teams using Git Flow, and using generative AI to speed up development. <br> <br>
   Passionate about AI and cibersecurity.
@@ -42,8 +42,8 @@ I also work with low-level and systems programming in C and C++, and application
 
 <h3>Persistence</h3>
 <p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
