@@ -17,7 +17,7 @@ I also work with low-level and systems programming in C and C++, and application
 <!--Start Intro-->               
 <p align="left"></p>
 
-<h3>Lenguages</h3>
+<h3>Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
