@@ -5,7 +5,7 @@
 
 
 
-<p>Full stack developer focused mainly on the backend, building web and mobile applications end to end.<br><br>
+<p>Full stack developer focused mainly on the backend, building web and mobile applications.<br><br>
 Backend with Node.js and Express designing REST APIs, applying good practices like SOLID principles and design patterns for clean, maintainable code.<br>
 Frontend with React and React Native, which I've done across several projects.<br>
 Data persistence in both relational (SQL, SQL Server) and non-relational (MongoDB) databases.<br><br>
