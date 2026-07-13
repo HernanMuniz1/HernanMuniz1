@@ -5,7 +5,7 @@
 
 
 
-<p>Full stack developer focused mainly on the backend, building web and mobile applications.<br><br>
+<p>Full stack developer from Buenos Aires, Argentina. <br>Focused mainly on the backend, building web and mobile applications.<br><br>
 Backend with Node.js and Express designing REST APIs, applying good practices like SOLID principles and design patterns for clean, maintainable code.<br>
 Frontend with React and React Native, which I've done across several projects.<br>
 Data persistence in both relational (SQL Server, PostgresSQL) and non-relational (MongoDB) databases.<br><br>
