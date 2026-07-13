@@ -1,9 +1,16 @@
-<!--Banner-->
-![HernanMuniz1 Banner Image](https://github.com/HernanMuniz1/hernanMuniz1/blob/main/banner.png)
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʜᴇʀɴᴀɴ!
-*Systems Engineering Student*
+<h1> ɪ'ᴍ ʜᴇʀɴᴀɴ! </h1>
+<h2>Systems Engineering Student</h2>
+
+
+
+<p>Full stack developer focused mainly on the backend, building web and mobile applications end to end.<br>
+Backend with Node.js and Express designing REST APIs, and frontend with React and React Native, which I've done across several projects.<br>
+Data persistence in both relational (SQL, SQL Server) and non-relational (MongoDB) databases.<br><br>
+I also worked with low-level and systems programming in C and C++ (compression and encryption software)<br>
+and application development in Java. Comfortable working in teams using Git Flow and using generative AI to speed up development.
+</p>
 <br /> 
 <!--Start Intro-->               
 <p align="left"></p>
@@ -24,10 +31,11 @@
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=white" alt="React"/>
 </p>
 
-<h3>Backend / Runtime</h3>
+<h3>Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
 <h3>Persistence</h3>
@@ -40,6 +48,7 @@
 <h3>Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Git_Flow-F05032?logo=git&logoColor=white" alt="Git Flow"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Claude_Code-D97757?logo=claude&logoColor=white" alt="Claude Code"/>
 </p>
